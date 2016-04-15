@@ -1,0 +1,26 @@
+{
+  "name": "o-pairs",
+  "version": "1.0.0",
+  "description": "Convert an object into a array of [key, value] pairs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/o-pairs.git"
+  },
+  "keywords": ["object", "to", "array", "pairs", "key", "value"],
+  "author": "Vikram Jadhav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vikramcse/o-pairs/issues"
+  },
+  "homepage": "https://github.com/vikramcse/o-pairs#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.7.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "mocha": "^2.4.5"
+  }
+}
